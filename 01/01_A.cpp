@@ -6,7 +6,7 @@ int main()
     int result = 0;
     
     int new_value;
-    std::ifstream ifile("input_01_A.txt");
+    std::ifstream ifile("input.txt");
     
     if (ifile.is_open())
     {
